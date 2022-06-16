@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\html"
+		},
+		{
+			"path": "..\\JavaScript_couse\\complete-javascript-course-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "complete-javascript-course-master",
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 2000
+	}
+}
